@@ -1,0 +1,9 @@
+{
+  "name": "p5-plotter-ideas",
+  "projects": [
+    "grid-lines",
+    "agent-1",
+    "scribbles",
+    "grid-generator"
+  ]
+}
